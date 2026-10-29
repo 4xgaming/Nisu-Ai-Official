@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.Nisu" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#010713</item>
+        <item name="android:statusBarColor">#010713</item>
+        <item name="android:navigationBarColor">#010713</item>
+    </style>
+    <style name="Theme.Nisu.Ai" parent="@android:style/Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+</resources>

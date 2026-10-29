@@ -1,0 +1,30 @@
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.design-cache/
+.v0-trash/
+.vercel/
+
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
+
+# Android / Gradle build output and private files (never upload these)
+build/
+app/build/
+.gradle/
+.kotlin/
+local.properties
+build.log
+*.apk
+*.aab
+*.jks
+*.keystore
+*.keystore.BACKUP
+free-tier-data.json
